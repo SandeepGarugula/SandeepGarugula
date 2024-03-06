@@ -1,5 +1,5 @@
 
-[![Linkedin Badge](https://img.shields.io/badge/Sandeep Garugula-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-garugula/)
+[![Linkedin Badge](https://img.shields.io/badge/Sandeep--Garugula-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-garugula/)
 - 👋 Hi, I’m @SandeepGarugula
 - 👀 I’m interested in Data Science & Data Analytics Projects
 - 🌱 I’m currently learning Data Analytics ( Python, R, SQL & Excel)
