@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science & Data Analytics Projects
 - 🌱 I’m currently learning Data Analytics ( Python, R, SQL & Excel)
 - 💞️ I’m looking to collaborate on Data Analytics projects
-- 📫 How to reach me goudasandeep77@gmail.com, <SandeepGarugula>(Linkedin)
+- 📫 How to reach me goudasandeep77@gmail.com, [Sandeep Garugula](https://www.linkedin.com/in/sandeep-garugula/) (Linkedin)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love to cook. My signature dish is homemade Lentils Soupe with Chicken Fry.
 
