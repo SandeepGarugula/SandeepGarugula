@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 How to reach me goudasandeep77@gmail.com, [Sandeep Garugula](https://www.linkedin.com/in/sandeep-garugula/) (Linkedin)
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I have worked in BPO for12 years of my life..
+- ⚡ Fun fact: I have worked in BPO for 12 years of my life..
 
 <!---
 SandeepGarugula/SandeepGarugula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
